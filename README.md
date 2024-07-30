@@ -14,3 +14,9 @@ Responsibility: Wrote a Python program to create a list, a dictionary, and a set
 Task 2: Data Manipulation with Pandas
 Description: This task involves using the Pandas library to manipulate data.
 Responsibility: Loaded a CSV file into a Pandas DataFrame and performed operations like filtering data based on conditions, handling missing values, and calculating summary statistics.
+
+Task3:web scraping using Python libraries like BeautifulSoup
+Description: The intern will create a basic web scraper using Python libraries like BeautifulSoup.
+Responsibility: 1. Follow tutorials to understand web scraping principles and techniques.
+2. Develop a simple Python script to scrape data from a static web page.
+3. Extract relevant information such as text, links, or images from web pages
